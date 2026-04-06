@@ -1,0 +1,14 @@
+C:\Users\Nitro\source\repos\Praktika\Praktika\bin\Debug\net10.0\Praktika.exe
+C:\Users\Nitro\source\repos\Praktika\Praktika\bin\Debug\net10.0\Praktika.deps.json
+C:\Users\Nitro\source\repos\Praktika\Praktika\bin\Debug\net10.0\Praktika.runtimeconfig.json
+C:\Users\Nitro\source\repos\Praktika\Praktika\bin\Debug\net10.0\Praktika.dll
+C:\Users\Nitro\source\repos\Praktika\Praktika\bin\Debug\net10.0\Praktika.pdb
+C:\Users\Nitro\source\repos\Praktika\Praktika\obj\Debug\net10.0\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\Praktika\Praktika\obj\Debug\net10.0\Praktika.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\Praktika\Praktika\obj\Debug\net10.0\Praktika.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\Praktika\Praktika\obj\Debug\net10.0\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\Praktika\Praktika\obj\Debug\net10.0\Praktika.dll
+C:\Users\Nitro\source\repos\Praktika\Praktika\obj\Debug\net10.0\refint\Praktika.dll
+C:\Users\Nitro\source\repos\Praktika\Praktika\obj\Debug\net10.0\Praktika.pdb
+C:\Users\Nitro\source\repos\Praktika\Praktika\obj\Debug\net10.0\Praktika.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\Praktika\Praktika\obj\Debug\net10.0\ref\Praktika.dll
