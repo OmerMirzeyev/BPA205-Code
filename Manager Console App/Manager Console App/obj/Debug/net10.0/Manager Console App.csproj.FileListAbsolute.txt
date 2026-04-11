@@ -1,0 +1,14 @@
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\bin\Debug\net10.0\Manager Console App.exe
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\bin\Debug\net10.0\Manager Console App.deps.json
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\bin\Debug\net10.0\Manager Console App.runtimeconfig.json
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\bin\Debug\net10.0\Manager Console App.dll
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\bin\Debug\net10.0\Manager Console App.pdb
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\obj\Debug\net10.0\Manager Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\obj\Debug\net10.0\Manager Console App.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\obj\Debug\net10.0\Manager Console App.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\obj\Debug\net10.0\Manager Console App.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\obj\Debug\net10.0\Manager Console App.dll
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\obj\Debug\net10.0\refint\Manager Console App.dll
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\obj\Debug\net10.0\Manager Console App.pdb
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\obj\Debug\net10.0\Manager Console App.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\Manager Console App\Manager Console App\obj\Debug\net10.0\ref\Manager Console App.dll
