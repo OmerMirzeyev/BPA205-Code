@@ -1,0 +1,60 @@
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\bin\Debug\net10.0\appsettings.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\bin\Debug\net10.0\Front to Back Intro Task.staticwebassets.runtime.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\bin\Debug\net10.0\Front to Back Intro Task.staticwebassets.endpoints.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\bin\Debug\net10.0\Front to Back Intro Task.exe
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\bin\Debug\net10.0\Front to Back Intro Task.deps.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\bin\Debug\net10.0\Front to Back Intro Task.runtimeconfig.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\bin\Debug\net10.0\Front to Back Intro Task.dll
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\bin\Debug\net10.0\Front to Back Intro Task.pdb
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\Front to Back Intro Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\Front to Back Intro Task.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\Front to Back Intro Task.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\Front to Back Intro Task.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\Front to Back Intro Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\Front to Back Intro Task.RazorAssemblyInfo.cache
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\Front to Back Intro Task.RazorAssemblyInfo.cs
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\scopedcss\bundle\Front to Back Intro Task.styles.css
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\Front to Back Intro Task.dll
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\refint\Front to Back Intro Task.dll
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\Front to Back Intro Task.pdb
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\Front to Back Intro Task.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\ref\Front to Back Intro Task.dll
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\bs7jar0giy-{0}-t3vua0i3hg-t3vua0i3hg.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\7pgivaypm9-{0}-quwnotmwqu-quwnotmwqu.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\2qqm1x3gp2-{0}-tb1uph1ho0-tb1uph1ho0.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\d6q0f0ofwd-{0}-kckh2h39mw-kckh2h39mw.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\oow6njqmt5-{0}-qpr9jcwgfy-qpr9jcwgfy.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\204955p6xx-{0}-5ipweew5fc-5ipweew5fc.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\1fb2lbdmnb-{0}-ccl65ls467-ccl65ls467.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\p183qme2qo-{0}-awxkyxc234-awxkyxc234.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\okhqcf0k2b-{0}-e26wuau6cr-e26wuau6cr.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\cgkbshan0w-{0}-9u7knshsau-9u7knshsau.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\yd1h2gtxiy-{0}-4knw25qle4-4knw25qle4.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\30wmpxxpia-{0}-jemla91gkx-jemla91gkx.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\kzfprqzks6-{0}-kdqacqsiym-kdqacqsiym.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\uoy3jltosc-{0}-ic9uoqpt60-ic9uoqpt60.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\fl89rw3dpe-{0}-9ru6zjg6o1-9ru6zjg6o1.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\qcqy5rnva8-{0}-gkehvh7b5x-gkehvh7b5x.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\jk1xtohchs-{0}-hgwno3bdmk-hgwno3bdmk.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\l9w2cj8rx4-{0}-n9t386aplt-n9t386aplt.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\4x4uovmsm9-{0}-f4dn2gyh2m-f4dn2gyh2m.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\vaszc670h7-{0}-47hjzikpj6-47hjzikpj6.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\8j2e1n72xc-{0}-s9b53c4zwx-s9b53c4zwx.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\aeoecwrzfd-{0}-aovojf7n9v-aovojf7n9v.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\fyrglc1ot5-{0}-4mz5o3umaq-4mz5o3umaq.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\gvafhmiqnh-{0}-wwymxpl2a8-wwymxpl2a8.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\uss3n1t43f-{0}-4auf8drytv-4auf8drytv.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\ugpmplkgen-{0}-qz75917aoa-qz75917aoa.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\n4yct5gflr-{0}-841apaat3s-841apaat3s.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\0ey5m2ew0m-{0}-rp1lunnf1o-rp1lunnf1o.gz
