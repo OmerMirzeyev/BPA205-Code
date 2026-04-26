@@ -1,0 +1,32 @@
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\bin\Debug\net10.0\appsettings.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\bin\Debug\net10.0\MVC Intro Task.staticwebassets.runtime.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\bin\Debug\net10.0\MVC Intro Task.staticwebassets.endpoints.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\bin\Debug\net10.0\MVC Intro Task.exe
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\bin\Debug\net10.0\MVC Intro Task.deps.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\bin\Debug\net10.0\MVC Intro Task.runtimeconfig.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\bin\Debug\net10.0\MVC Intro Task.dll
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\bin\Debug\net10.0\MVC Intro Task.pdb
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\MVC Intro Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\MVC Intro Task.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\MVC Intro Task.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\MVC Intro Task.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\MVC Intro Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\MVC Intro Task.RazorAssemblyInfo.cache
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\MVC Intro Task.RazorAssemblyInfo.cs
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\scopedcss\bundle\MVC Intro Task.styles.css
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\MVC Intro Task.dll
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\refint\MVC Intro Task.dll
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\MVC Intro Task.pdb
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\MVC Intro Task.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\MVC Intro Task\MVC Intro Task\obj\Debug\net10.0\ref\MVC Intro Task.dll

@@ -1,0 +1,14 @@
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\obj\Debug\net10.0\Smart Home (Ağıllı Ev) Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\obj\Debug\net10.0\Smart Home (Ağıllı Ev) Sistemi.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\obj\Debug\net10.0\Smart Home (Ağıllı Ev) Sistemi.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\obj\Debug\net10.0\Smart Home (Ağıllı Ev) Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\bin\Debug\net10.0\Smart Home (Ağıllı Ev) Sistemi.exe
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\bin\Debug\net10.0\Smart Home (Ağıllı Ev) Sistemi.deps.json
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\bin\Debug\net10.0\Smart Home (Ağıllı Ev) Sistemi.runtimeconfig.json
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\bin\Debug\net10.0\Smart Home (Ağıllı Ev) Sistemi.dll
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\bin\Debug\net10.0\Smart Home (Ağıllı Ev) Sistemi.pdb
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\obj\Debug\net10.0\Smart Home (Ağıllı Ev) Sistemi.dll
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\obj\Debug\net10.0\refint\Smart Home (Ağıllı Ev) Sistemi.dll
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\obj\Debug\net10.0\Smart Home (Ağıllı Ev) Sistemi.pdb
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\obj\Debug\net10.0\Smart Home (Ağıllı Ev) Sistemi.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\Smart Home (Ağıllı Ev) Sistemi\Smart Home (Ağıllı Ev) Sistemi\obj\Debug\net10.0\ref\Smart Home (Ağıllı Ev) Sistemi.dll

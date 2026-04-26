@@ -1,0 +1,14 @@
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\bin\Debug\net10.0\Game Character System.exe
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\bin\Debug\net10.0\Game Character System.deps.json
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\bin\Debug\net10.0\Game Character System.runtimeconfig.json
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\bin\Debug\net10.0\Game Character System.dll
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\bin\Debug\net10.0\Game Character System.pdb
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\obj\Debug\net10.0\Game Character System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\obj\Debug\net10.0\Game Character System.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\obj\Debug\net10.0\Game Character System.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\obj\Debug\net10.0\Game Character System.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\obj\Debug\net10.0\Game Character System.dll
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\obj\Debug\net10.0\refint\Game Character System.dll
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\obj\Debug\net10.0\Game Character System.pdb
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\obj\Debug\net10.0\Game Character System.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\Game Character System\Game Character System\obj\Debug\net10.0\ref\Game Character System.dll

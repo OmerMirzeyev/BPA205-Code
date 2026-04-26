@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TASK Polymorphism, Virtual, Override/1.0.0": {
+        "runtime": {
+          "TASK Polymorphism, Virtual, Override.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TASK Polymorphism, Virtual, Override/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

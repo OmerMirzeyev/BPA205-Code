@@ -1,0 +1,14 @@
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\bin\Debug\net10.0\Ders 2 Practise.exe
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\bin\Debug\net10.0\Ders 2 Practise.deps.json
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\bin\Debug\net10.0\Ders 2 Practise.runtimeconfig.json
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\bin\Debug\net10.0\Ders 2 Practise.dll
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\bin\Debug\net10.0\Ders 2 Practise.pdb
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\obj\Debug\net10.0\Ders 2 Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\obj\Debug\net10.0\Ders 2 Practise.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\obj\Debug\net10.0\Ders 2 Practise.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\obj\Debug\net10.0\Ders 2 Practise.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\obj\Debug\net10.0\Ders 2 Practise.dll
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\obj\Debug\net10.0\refint\Ders 2 Practise.dll
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\obj\Debug\net10.0\Ders 2 Practise.pdb
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\obj\Debug\net10.0\Ders 2 Practise.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\Ders 2 Practise\Ders 2 Practise\obj\Debug\net10.0\ref\Ders 2 Practise.dll

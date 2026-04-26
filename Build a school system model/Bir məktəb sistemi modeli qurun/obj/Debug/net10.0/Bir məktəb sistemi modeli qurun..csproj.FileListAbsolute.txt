@@ -1,0 +1,14 @@
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\bin\Debug\net10.0\Bir məktəb sistemi modeli qurun..exe
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\bin\Debug\net10.0\Bir məktəb sistemi modeli qurun..deps.json
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\bin\Debug\net10.0\Bir məktəb sistemi modeli qurun..runtimeconfig.json
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\bin\Debug\net10.0\Bir məktəb sistemi modeli qurun..dll
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\bin\Debug\net10.0\Bir məktəb sistemi modeli qurun..pdb
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\obj\Debug\net10.0\Bir məktəb sistemi modeli qurun..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\obj\Debug\net10.0\Bir məktəb sistemi modeli qurun..AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\obj\Debug\net10.0\Bir məktəb sistemi modeli qurun..AssemblyInfo.cs
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\obj\Debug\net10.0\Bir məktəb sistemi modeli qurun..csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\obj\Debug\net10.0\Bir məktəb sistemi modeli qurun..dll
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\obj\Debug\net10.0\refint\Bir məktəb sistemi modeli qurun..dll
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\obj\Debug\net10.0\Bir məktəb sistemi modeli qurun..pdb
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\obj\Debug\net10.0\Bir məktəb sistemi modeli qurun..genruntimeconfig.cache
+C:\Users\Nitro\source\repos\Bir məktəb sistemi modeli qurun\Bir məktəb sistemi modeli qurun\obj\Debug\net10.0\ref\Bir məktəb sistemi modeli qurun..dll

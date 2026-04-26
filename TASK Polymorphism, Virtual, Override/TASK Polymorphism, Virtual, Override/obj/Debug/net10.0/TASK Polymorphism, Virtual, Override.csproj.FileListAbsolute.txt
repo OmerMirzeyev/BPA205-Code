@@ -1,0 +1,14 @@
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\bin\Debug\net10.0\TASK Polymorphism, Virtual, Override.exe
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\bin\Debug\net10.0\TASK Polymorphism, Virtual, Override.deps.json
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\bin\Debug\net10.0\TASK Polymorphism, Virtual, Override.runtimeconfig.json
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\bin\Debug\net10.0\TASK Polymorphism, Virtual, Override.dll
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\bin\Debug\net10.0\TASK Polymorphism, Virtual, Override.pdb
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\obj\Debug\net10.0\TASK Polymorphism, Virtual, Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\obj\Debug\net10.0\TASK Polymorphism, Virtual, Override.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\obj\Debug\net10.0\TASK Polymorphism, Virtual, Override.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\obj\Debug\net10.0\TASK Polymorphism, Virtual, Override.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\obj\Debug\net10.0\TASK Polymorphism, Virtual, Override.dll
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\obj\Debug\net10.0\refint\TASK Polymorphism, Virtual, Override.dll
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\obj\Debug\net10.0\TASK Polymorphism, Virtual, Override.pdb
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\obj\Debug\net10.0\TASK Polymorphism, Virtual, Override.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\TASK Polymorphism, Virtual, Override\TASK Polymorphism, Virtual, Override\obj\Debug\net10.0\ref\TASK Polymorphism, Virtual, Override.dll

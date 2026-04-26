@@ -1,0 +1,14 @@
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\bin\Debug\net8.0\The user creates events and manages their timing..exe
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\bin\Debug\net8.0\The user creates events and manages their timing..deps.json
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\bin\Debug\net8.0\The user creates events and manages their timing..runtimeconfig.json
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\bin\Debug\net8.0\The user creates events and manages their timing..dll
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\bin\Debug\net8.0\The user creates events and manages their timing..pdb
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\obj\Debug\net8.0\The user creates events and manages their timing..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\obj\Debug\net8.0\The user creates events and manages their timing..AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\obj\Debug\net8.0\The user creates events and manages their timing..AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\obj\Debug\net8.0\The user creates events and manages their timing..csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\obj\Debug\net8.0\The user creates events and manages their timing..dll
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\obj\Debug\net8.0\refint\The user creates events and manages their timing..dll
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\obj\Debug\net8.0\The user creates events and manages their timing..pdb
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\obj\Debug\net8.0\The user creates events and manages their timing..genruntimeconfig.cache
+C:\Users\ll novbe\Desktop\The user creates events and manages their timing\obj\Debug\net8.0\ref\The user creates events and manages their timing..dll
