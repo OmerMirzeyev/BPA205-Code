@@ -58,3 +58,4 @@ C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\ob
 C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\ugpmplkgen-{0}-qz75917aoa-qz75917aoa.gz
 C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\n4yct5gflr-{0}-841apaat3s-841apaat3s.gz
 C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\compressed\0ey5m2ew0m-{0}-rp1lunnf1o-rp1lunnf1o.gz
+C:\Users\Nitro\source\repos\Front to Back Intro Task\Front to Back Intro Task\obj\Debug\net10.0\Front to Back Intro Task.sourcelink.json

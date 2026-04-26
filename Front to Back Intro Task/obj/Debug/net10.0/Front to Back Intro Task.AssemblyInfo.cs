@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Front to Back Intro Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddedb6991e34d10f6497505ebb396ce1f5aa1e01")]
 [assembly: System.Reflection.AssemblyProductAttribute("Front to Back Intro Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Front to Back Intro Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
