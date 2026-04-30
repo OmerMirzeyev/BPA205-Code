@@ -2995,11 +2995,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<<< HEAD:EF Core Task/EF Core Task/obj/project.assets.json
       "projectUniqueName": "C:\\Users\\Nitro\\source\\repos\\EF Core Task\\EF Core Task\\EF Core Task.csproj",
       "projectName": "EF Core Task",
       "projectPath": "C:\\Users\\Nitro\\source\\repos\\EF Core Task\\EF Core Task\\EF Core Task.csproj",
       "packagesPath": "C:\\Users\\Nitro\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Nitro\\source\\repos\\EF Core Task\\EF Core Task\\obj\\",
+========
+      "projectUniqueName": "C:\\Users\\ll novbe\\Desktop\\BPA205-Code\\EF core task\\EF core task.csproj",
+      "projectName": "EF core task",
+      "projectPath": "C:\\Users\\ll novbe\\Desktop\\BPA205-Code\\EF core task\\EF core task.csproj",
+      "packagesPath": "C:\\Users\\ll novbe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ll novbe\\Desktop\\BPA205-Code\\EF core task\\obj\\",
+>>>>>>>> b3ffb5e (Pustok):Pustok/obj/project.assets.json
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
