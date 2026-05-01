@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ll novbe\\Desktop\\BPA205-Code\\EF core task\\EF core task.csproj": {}
+    "C:\\Users\\ll novbe\\source\\repos\\Pustok\\EF core task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ll novbe\\Desktop\\BPA205-Code\\EF core task\\EF core task.csproj": {
+    "C:\\Users\\ll novbe\\source\\repos\\Pustok\\EF core task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ll novbe\\Desktop\\BPA205-Code\\EF core task\\EF core task.csproj",
+        "projectUniqueName": "C:\\Users\\ll novbe\\source\\repos\\Pustok\\EF core task.csproj",
         "projectName": "EF core task",
-        "projectPath": "C:\\Users\\ll novbe\\Desktop\\BPA205-Code\\EF core task\\EF core task.csproj",
+        "projectPath": "C:\\Users\\ll novbe\\source\\repos\\Pustok\\EF core task.csproj",
         "packagesPath": "C:\\Users\\ll novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ll novbe\\Desktop\\BPA205-Code\\EF core task\\obj\\",
+        "outputPath": "C:\\Users\\ll novbe\\source\\repos\\Pustok\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,6 +59,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.23, )"
             }
           },
           "imports": [

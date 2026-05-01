@@ -1,4 +1,4 @@
-using EF_Core_Task.DAL;
+using EF_core_task.DAL;
 using Microsoft.EntityFrameworkCore;
 
 namespace EF_Core_Task
@@ -15,6 +15,12 @@ namespace EF_Core_Task
             });
 
             var app = builder.Build();
+
+            app.MapControllerRoute(
+                name: "areas",
+                pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
+                );
+
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}"

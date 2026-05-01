@@ -1,4 +1,6 @@
-﻿namespace EF_core_task.Models
+﻿using EF_Core_Task.Models.Base;
+
+namespace EF_core_task.Models
 {
     public class Product : BaseEntity
     {

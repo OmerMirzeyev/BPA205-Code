@@ -1,0 +1,64 @@
+﻿@model List<Product>
+
+<div>
+    <a asp-controller="Product" asp-action="Create" class="btn btn-primary" >Add Product</a>
+    <hr />
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Price</th>
+            <th scope="col">Image</th>
+            <th scope="col">Delete Status</th>
+                <th scope="col">Actions</th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Product product in Model)
+        {
+            <tr>
+                <th scope="row">@product.Id</th>
+                <td>@product.Title</td>
+                <td>@product.Price</td>
+                <td>
+                    <img style="width: 80px; height: 80px" src="~/assets/image/products/@product.Image" alt="Img" />
+                </td>
+
+                @if (product.IsDeleted == false)
+                {
+                    <td class="text-success">Active</td>
+
+                }
+                else
+                {
+                    <td class="text-danger">Deactive</td>
+                }
+                <td>
+                    <button class="btn btn-warning">Update</button>
+                </td>
+                <td>
+
+                        @{
+                            if(product.IsDeleted == false)
+                            {
+                    <form asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id" method="post"></form>
+                    <button class="btn btn-danger">Delete</button>
+
+                            }
+                            else
+                            {
+                                <form asp-controller="Product" asp-action="Restore" asp-route-id="@product.Id" method="post"></form>
+                                <button class="btn btn-danger">Restore</button>
+                            }
+                        }
+
+                </td>
+            </tr>
+                
+        }
+    </tbody>
+</table>
+</div>

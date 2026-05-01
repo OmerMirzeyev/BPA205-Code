@@ -14,7 +14,9 @@ namespace EF_core_task.Controllers
         public IActionResult Index()
         {
 
-            List<Product> products = _db.Products.ToList();
+            List<Product> products = _db.Products
+                .Where<Product>(p => !p.IsDeleted)
+                .ToList();
 
             return View(products);
 
