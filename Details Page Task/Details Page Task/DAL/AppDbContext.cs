@@ -11,6 +11,7 @@ namespace Details_Page_Task.DAL
 
         public DbSet<Product> Products { get; set; }
         public DbSet<Slider> Sliders { get; set; }
+        public DbSet<Review> Reviews { get; set; }
     }
 }
 
