@@ -26,6 +26,8 @@ namespace Admin_Task.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult Create(Product product)
         {
+            if (!ModelState.IsValid) return View(product);
+
             _db.Products.Add(product);
             _db.SaveChanges();
             return RedirectToAction(nameof(Index));
@@ -52,6 +54,24 @@ namespace Admin_Task.Areas.Admin.Controllers
         {
             Product product = _db.Products.Find(id);
             product.IsDeleted = false;
+            _db.SaveChanges();
+            return RedirectToAction(nameof(Index));
+        }
+        public IActionResult Update(int id)
+        {
+            Product product = _db.Products.Find(id);
+            return View(product);
+        }
+        [HttpPost]
+        public IActionResult Update(Product product)
+        {
+            if (!ModelState.IsValid) return View(product);
+            
+
+            Product OldProducts = _db.Products.Find(product.Id);
+            OldProducts.Title = product.Title;
+            OldProducts.ImageUrl = product.ImageUrl;
+            OldProducts.Category = product.Category;
             _db.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
