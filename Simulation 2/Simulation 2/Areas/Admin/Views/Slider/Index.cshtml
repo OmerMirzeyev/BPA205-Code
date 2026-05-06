@@ -1,0 +1,53 @@
+﻿@model List<Slider>
+
+<div>
+    <a asp-controller="Slider" asp-action="Create" class="btn btn-primary">Add Slider</a>
+    <hr />
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Title</th>
+                <th scope="col">Description</th>
+                <th scope="col">Delete activities</th>
+                <th scope="col">ImageUrl</th>
+                <th colspan="2">Activities</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(Slider slider in Model)
+            {           
+                <tr>
+                <th scope="row">@slider.Id</th>
+                <td>@slider.Title</td>
+                <td>@slider.Description</td>
+                <td>@slider.IsDeleted</td>
+                <td>
+                    <img src="~/uploads/sliders/@slider.ImageUrl" alt="Slider Image" style="width: 100px; height: auto;" />
+                </td>
+                <td>
+                    
+                    <a asp-controller="Slider" asp-action="Update" asp-route-id="@slider.Id" class="btn btn-primary">Update</a>
+                </td>
+                    <td>
+                        
+                        @if (!slider.IsDeleted)
+                        {
+                            <form asp-controller="Slider" asp-action="Delete" asp-route-id="@slider.Id">
+
+                            <button class="btn btn-danger">Delete</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <form asp-controller="Slider" asp-action="Restore" asp-route-id="@slider.Id">
+
+                            <button class="btn btn-warning"> Restore</button>
+                            </form>
+                        }
+                    </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
