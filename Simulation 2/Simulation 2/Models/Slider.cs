@@ -18,7 +18,7 @@ namespace Simulation_2.Models
            MinLength(10, ErrorMessage = "Description cannot be at least 10 characters...")
        ]
         public string Description { get; set; }
-        [Required(ErrorMessage = "ImageUrl is required.")]
+  
         public string? ImageUrl { get; set; }
         [NotMapped]
         public IFormFile ImageFile { get; set; }

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Simulation_2.DAL;
 using Simulation_2.Models;
+using Simulation_2.Utilities.Extension;
 
 namespace Simulation_2.Areas.Admin.Controllers
 {
@@ -44,12 +45,10 @@ namespace Simulation_2.Areas.Admin.Controllers
                 return View();
             }
 
-            if(!ModelState.IsValid)
-            {
-                return View();
-            }
+            
+            slider.ImageUrl = slider.ImageFile.SaveImage(_env, "uploads/sliders");
 
-
+            if(!ModelState.IsValid)    return View();
             _db.Sliders.Add(slider);
             _db.SaveChanges();
             return RedirectToAction(nameof(Index));
@@ -79,6 +78,7 @@ namespace Simulation_2.Areas.Admin.Controllers
         public IActionResult Update(Slider slider)
         {
             if (!ModelState.IsValid) return View(slider);
+
 
 
             Slider OldSlider = _db.Sliders.Find(slider.Id);

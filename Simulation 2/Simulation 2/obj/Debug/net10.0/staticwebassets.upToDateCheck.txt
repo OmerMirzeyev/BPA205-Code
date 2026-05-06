@@ -6,6 +6,10 @@ wwwroot\admin\assets\img\error-404-monochrome.svg
 wwwroot\admin\css\styles.css
 wwwroot\admin\js\datatables-simple-demo.js
 wwwroot\admin\js\scripts.js
+wwwroot\uploads\sliders\50969220-ee70-4e37-9f92-df6919989378Screenshot 2026-04-14 224046.png
+wwwroot\uploads\sliders\7927d179-cf94-4677-be5d-5b7e78be96c1niva.jfif
+wwwroot\uploads\sliders\a088b94d-2e2c-48f9-aefa-866664524f42Screenshot 2026-04-14 224046.png
+wwwroot\uploads\sliders\e5ba9a83-3bf1-4d87-b11a-44d880f29931Screenshot 2026-04-14 224046.png
 C:\Users\Nitro\source\repos\Simulation 2\Simulation 2\wwwroot\admin\assets\demo\chart-area-demo.js
 C:\Users\Nitro\source\repos\Simulation 2\Simulation 2\wwwroot\admin\assets\demo\chart-bar-demo.js
 C:\Users\Nitro\source\repos\Simulation 2\Simulation 2\wwwroot\admin\assets\demo\chart-pie-demo.js
