@@ -1,0 +1,16 @@
+wwwroot\admin\assets\demo\chart-area-demo.js
+wwwroot\admin\assets\demo\chart-bar-demo.js
+wwwroot\admin\assets\demo\chart-pie-demo.js
+wwwroot\admin\assets\demo\datatables-demo.js
+wwwroot\admin\assets\img\error-404-monochrome.svg
+wwwroot\admin\css\styles.css
+wwwroot\admin\js\datatables-simple-demo.js
+wwwroot\admin\js\scripts.js
+C:\Users\Nitro\source\repos\Image Upload and Slider CRUD\Image Upload and Slider CRUD\wwwroot\admin\assets\demo\chart-area-demo.js
+C:\Users\Nitro\source\repos\Image Upload and Slider CRUD\Image Upload and Slider CRUD\wwwroot\admin\assets\demo\chart-bar-demo.js
+C:\Users\Nitro\source\repos\Image Upload and Slider CRUD\Image Upload and Slider CRUD\wwwroot\admin\assets\demo\chart-pie-demo.js
+C:\Users\Nitro\source\repos\Image Upload and Slider CRUD\Image Upload and Slider CRUD\wwwroot\admin\assets\demo\datatables-demo.js
+C:\Users\Nitro\source\repos\Image Upload and Slider CRUD\Image Upload and Slider CRUD\wwwroot\admin\assets\img\error-404-monochrome.svg
+C:\Users\Nitro\source\repos\Image Upload and Slider CRUD\Image Upload and Slider CRUD\wwwroot\admin\css\styles.css
+C:\Users\Nitro\source\repos\Image Upload and Slider CRUD\Image Upload and Slider CRUD\wwwroot\admin\js\datatables-simple-demo.js
+C:\Users\Nitro\source\repos\Image Upload and Slider CRUD\Image Upload and Slider CRUD\wwwroot\admin\js\scripts.js
