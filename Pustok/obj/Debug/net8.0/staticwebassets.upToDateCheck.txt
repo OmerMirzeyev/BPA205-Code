@@ -2033,3 +2033,14 @@ wwwroot\assets\scss\sections\_layout.scss
 wwwroot\assets\scss\sections\_sidebar.scss
 wwwroot\assets\scss\sections\_testimonial.scss
 wwwroot\assets\scss\sections\_welcome.scss
+wwwroot\uploads\products\718406e9-95ed-406d-a479-ccf7b4f19187Screenshot 2026-05-06 123704.png
+wwwroot\uploads\products\f9c0d6ac-c254-4d70-9ebb-de851abd246bScreenshot 2026-05-03 134422.png
+wwwroot\uploads\products\8c1da9d1-e0d5-4451-8fdb-b39c27fae7dfScreenshot 2026-05-03 134422.png
+wwwroot\uploads\products\317debda-8e83-4f88-810d-2233107e27a2Screenshot 2026-04-18 223715.png
+wwwroot\uploads\products\99eb576d-8035-425f-922d-726048ff9c1dScreenshot 2026-04-18 223715.png
+wwwroot\uploads\products\704ba9bb-39c5-4679-aa2e-810104d25046Screenshot 2026-04-18 223715.png
+wwwroot\uploads\products\2bdf1973-f7a9-4bc2-97d6-8e2e8ae8c811Screenshot 2026-04-18 223715.png
+wwwroot\uploads\products\d73711e2-64fc-4e2f-9aab-dc76265c4e6bScreenshot 2026-04-18 223715.png
+wwwroot\uploads\products\8043a968-6aae-4bd5-91b3-dd4752895415Screenshot 2026-04-14 224046.png
+wwwroot\uploads\products\0f98cbc4-e020-4851-8114-5d6f598afb46Screenshot 2026-04-18 223715.png
+wwwroot\uploads\products\9531fa01-3ae5-4911-b478-8d5029dd0a85Screenshot 2026-04-18 223715.png

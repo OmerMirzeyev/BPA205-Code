@@ -6,5 +6,6 @@ namespace EF_core_task.DAL
     {
         public AppDbContext(DbContextOptions options) : base(options) { }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Brand> Brands { get; set; }
     }
 }

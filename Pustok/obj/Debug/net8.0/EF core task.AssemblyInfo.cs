@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EF core task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15efafd5ce02c3008170d254f1cee48bcf1d5151")]
 [assembly: System.Reflection.AssemblyProductAttribute("EF core task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EF core task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
